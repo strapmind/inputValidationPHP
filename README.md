@@ -1,2 +1,5 @@
 # inputValidationPHP
-Repo for the starter files for my youtube video showcasing PHP tutorial for input validation.
+## Link to the video:
+
+
+## Hi. In this tutorial, I showed maybe the simplest way to validate inputs with PHP. 
